@@ -25,7 +25,16 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/isotope.js",
+              "src/assets/js/isotope.min.js",
+              "src/assets/js/owl-carousel.js",
+              "src/assets/js/popup.js",
+              "src/assets/js/tabs.js"
+            ]
           },
           "configurations": {
             "production": {
